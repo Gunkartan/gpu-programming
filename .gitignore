@@ -1,4 +1,5 @@
 *.csv
 *.md
+*.png
 *.txt
 /.vscode
